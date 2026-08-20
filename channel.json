@@ -1,0 +1,11 @@
+{
+  "schema": "rapp-vision-channel/1.0",
+  "id": "rappter-plays-pokemon",
+  "name": "RAPPter Plays Pokemon",
+  "description": "Sanitized highlights from autonomous Pokemon playthroughs powered by GitHub Copilot.",
+  "author": {
+    "name": "kody-w",
+    "url": "https://github.com/kody-w"
+  },
+  "videos": []
+}
