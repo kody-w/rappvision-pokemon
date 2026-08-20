@@ -60,6 +60,43 @@
           "label": "Pikachu joins the party"
         }
       ]
+    },
+    {
+      "id": "yellow-002-first-viridian-arrival",
+      "title": "YELLOW reaches Viridian City",
+      "description": "After escaping Route 1's ledges, the autonomous Pokemon Yellow run crosses into Viridian City for the first time.",
+      "published": "2026-08-20",
+      "duration": 24.9,
+      "width": 1024,
+      "height": 576,
+      "orientation": "landscape",
+      "tags": [
+        "pokemon-yellow",
+        "viridian-city",
+        "autonomous-gameplay",
+        "milestone"
+      ],
+      "thumb": "thumbs/yellow-002-first-viridian-arrival.jpg",
+      "sources": [
+        {
+          "src": "media/yellow-002-first-viridian-arrival.mp4",
+          "type": "video/mp4; codecs=\"avc1.4D401F\""
+        },
+        {
+          "src": "media/yellow-002-first-viridian-arrival.webm",
+          "type": "video/webm; codecs=\"vp9\""
+        }
+      ],
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Final Route 1 approach"
+        },
+        {
+          "t": 15,
+          "label": "Viridian City arrival"
+        }
+      ]
     }
   ]
 }
