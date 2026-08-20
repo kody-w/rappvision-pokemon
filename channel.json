@@ -7,5 +7,59 @@
     "name": "kody-w",
     "url": "https://github.com/kody-w"
   },
-  "videos": []
+  "videos": [
+    {
+      "id": "yellow-001-pikachu-joins",
+      "title": "YELLOW receives Pikachu",
+      "description": "The autonomous Pokemon Yellow run reaches its first party milestone: Oak gives YELLOW the Pikachu caught outside Pallet Town.",
+      "published": "2026-08-19",
+      "duration": 99.067,
+      "width": 1024,
+      "height": 576,
+      "orientation": "landscape",
+      "tags": [
+        "pokemon-yellow",
+        "pikachu",
+        "autonomous-gameplay",
+        "milestone"
+      ],
+      "thumb": "thumbs/yellow-001-pikachu-joins.jpg",
+      "sources": [
+        {
+          "src": "media/yellow-001-pikachu-joins.mp4",
+          "type": "video/mp4; codecs=\"avc1.4D401F\""
+        },
+        {
+          "src": "media/yellow-001-pikachu-joins.webm",
+          "type": "video/webm; codecs=\"vp9\""
+        }
+      ],
+      "chapters": [
+        {
+          "t": 0,
+          "label": "BLUE claims Oak's Poke Ball"
+        },
+        {
+          "t": 23.7,
+          "label": "Oak lets BLUE keep it"
+        },
+        {
+          "t": 36.2,
+          "label": "Oak promises YELLOW another Pokemon"
+        },
+        {
+          "t": 70.8,
+          "label": "YELLOW receives Pikachu"
+        },
+        {
+          "t": 74.4,
+          "label": "Nickname prompt"
+        },
+        {
+          "t": 97.1,
+          "label": "Pikachu joins the party"
+        }
+      ]
+    }
+  ]
 }
