@@ -139,6 +139,56 @@
           "label": "YELLOW receives the Pokedex"
         }
       ]
+    },
+    {
+      "id": "yellow-004-caterpie-to-metapod",
+      "title": "Caterpie joins and evolves",
+      "description": "The autonomous Yellow run catches Caterpie in Viridian Forest, then trains it to level 7 and evolves it into Metapod.",
+      "published": "2026-08-20",
+      "duration": 96,
+      "width": 1024,
+      "height": 576,
+      "orientation": "landscape",
+      "tags": [
+        "pokemon-yellow",
+        "caterpie",
+        "metapod",
+        "evolution",
+        "autonomous-gameplay"
+      ],
+      "thumb": "thumbs/yellow-004-caterpie-to-metapod.jpg",
+      "sources": [
+        {
+          "src": "media/yellow-004-caterpie-to-metapod.mp4",
+          "type": "video/mp4; codecs=\"avc1.4D401F\""
+        },
+        {
+          "src": "media/yellow-004-caterpie-to-metapod.webm",
+          "type": "video/webm; codecs=\"vp9\""
+        }
+      ],
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Wild Caterpie encounter"
+        },
+        {
+          "t": 30,
+          "label": "Caterpie is caught"
+        },
+        {
+          "t": 55,
+          "label": "Caterpie reaches level 7"
+        },
+        {
+          "t": 70,
+          "label": "Caterpie evolves into Metapod"
+        },
+        {
+          "t": 90,
+          "label": "Metapod learns Harden"
+        }
+      ]
     }
   ]
 }
