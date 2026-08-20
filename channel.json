@@ -189,6 +189,56 @@
           "label": "Metapod learns Harden"
         }
       ]
+    },
+    {
+      "id": "yellow-005-butterfree-and-confusion",
+      "title": "Metapod evolves into Butterfree",
+      "description": "Metapod reaches level 10, evolves into Butterfree, and learns Confusion for the Brock battle.",
+      "published": "2026-08-20",
+      "duration": 40.9,
+      "width": 1024,
+      "height": 576,
+      "orientation": "landscape",
+      "tags": [
+        "pokemon-yellow",
+        "butterfree",
+        "confusion",
+        "evolution",
+        "autonomous-gameplay"
+      ],
+      "thumb": "thumbs/yellow-005-butterfree-and-confusion.jpg",
+      "sources": [
+        {
+          "src": "media/yellow-005-butterfree-and-confusion.mp4",
+          "type": "video/mp4; codecs=\"avc1.4D401F\""
+        },
+        {
+          "src": "media/yellow-005-butterfree-and-confusion.webm",
+          "type": "video/webm; codecs=\"vp9\""
+        }
+      ],
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Final Metapod battle"
+        },
+        {
+          "t": 10,
+          "label": "Metapod reaches level 10"
+        },
+        {
+          "t": 18,
+          "label": "Evolution begins"
+        },
+        {
+          "t": 30,
+          "label": "Butterfree emerges"
+        },
+        {
+          "t": 36,
+          "label": "Butterfree learns Confusion"
+        }
+      ]
     }
   ]
 }
