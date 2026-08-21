@@ -294,6 +294,65 @@
           "label": "YELLOW receives HM01"
         }
       ]
+    },
+    {
+      "id": "yellow-007-thunder-badge-victory",
+      "title": "YELLOW wins the Thunder Badge",
+      "description": "Bellsprout lands the deciding Vine Whip against Lt. Surge's Raichu, reaches level 17, and earns YELLOW the Thunder Badge and TM24 Thunderbolt.",
+      "published": "2026-08-20",
+      "duration": 127,
+      "width": 1024,
+      "height": 576,
+      "orientation": "landscape",
+      "tags": [
+        "pokemon-yellow",
+        "lt-surge",
+        "thunder-badge",
+        "bellsprout",
+        "autonomous-gameplay",
+        "milestone"
+      ],
+      "thumb": "thumbs/yellow-007-thunder-badge-victory.jpg",
+      "sources": [
+        {
+          "src": "media/yellow-007-thunder-badge-victory.mp4",
+          "type": "video/mp4; codecs=\"avc1.4D401F\""
+        },
+        {
+          "src": "media/yellow-007-thunder-badge-victory.webm",
+          "type": "video/webm; codecs=\"vp9\""
+        }
+      ],
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Bellsprout's final stand"
+        },
+        {
+          "t": 5,
+          "label": "Deciding Vine Whip"
+        },
+        {
+          "t": 10,
+          "label": "Raichu faints"
+        },
+        {
+          "t": 30,
+          "label": "Bellsprout reaches level 17"
+        },
+        {
+          "t": 35,
+          "label": "Lt. Surge defeated"
+        },
+        {
+          "t": 70,
+          "label": "Thunder Badge awarded"
+        },
+        {
+          "t": 120,
+          "label": "TM24 Thunderbolt"
+        }
+      ]
     }
   ]
 }
