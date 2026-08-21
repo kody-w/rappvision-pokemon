@@ -239,6 +239,61 @@
           "label": "Butterfree learns Confusion"
         }
       ]
+    },
+    {
+      "id": "yellow-006-hm01-cut-on-the-ss-anne",
+      "title": "YELLOW gets HM01 Cut",
+      "description": "YELLOW boards the S.S. Anne, helps its seasick captain, and receives HM01 Cut.",
+      "published": "2026-08-20",
+      "duration": 70.4,
+      "width": 1024,
+      "height": 576,
+      "orientation": "landscape",
+      "tags": [
+        "pokemon-yellow",
+        "ss-anne",
+        "hm01-cut",
+        "captain",
+        "autonomous-gameplay",
+        "milestone"
+      ],
+      "thumb": "thumbs/yellow-006-hm01-cut-on-the-ss-anne.jpg",
+      "sources": [
+        {
+          "src": "media/yellow-006-hm01-cut-on-the-ss-anne.mp4",
+          "type": "video/mp4; codecs=\"avc1.4D401F\""
+        },
+        {
+          "src": "media/yellow-006-hm01-cut-on-the-ss-anne.webm",
+          "type": "video/webm; codecs=\"vp9\""
+        }
+      ],
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Captain's room"
+        },
+        {
+          "t": 10,
+          "label": "The captain is seasick"
+        },
+        {
+          "t": 20,
+          "label": "YELLOW helps the captain"
+        },
+        {
+          "t": 30,
+          "label": "The captain recovers"
+        },
+        {
+          "t": 36,
+          "label": "HM01 Cut offered"
+        },
+        {
+          "t": 66,
+          "label": "YELLOW receives HM01"
+        }
+      ]
     }
   ]
 }
